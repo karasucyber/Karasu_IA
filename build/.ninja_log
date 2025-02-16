@@ -1,0 +1,14 @@
+# ninja log v6
+3	111	1739567859138135919	build.ninja	e48ec926798edbea
+5	397	1739567758226912197	CMakeFiles/Assistant.dir/src/scheduler/scheduler.cpp.o	98291be508700d71
+4	443	1739567758226912197	CMakeFiles/Assistant.dir/src/db/database.cpp.o	a0e7318960340ebd
+5	414	1739567758226912197	CMakeFiles/Assistant.dir/src/nlp/nlp.cpp.o	84575af09b7e1008
+2	101	1739567859138135919	build.ninja	e48ec926798edbea
+5	407	1739567859158135764	CMakeFiles/Assistant.dir/src/scheduler/scheduler.cpp.o	9dc98ad27d59421c
+5	432	1739567859158135764	CMakeFiles/Assistant.dir/src/nlp/nlp.cpp.o	59261ea37aee7c7e
+3	448	1739567859158135764	CMakeFiles/Assistant.dir/src/core/assistant.cpp.o	2dbec2c007ba258d
+4	451	1739567859158135764	CMakeFiles/Assistant.dir/src/db/database.cpp.o	8fcc5ac05e469317
+3	467	1739567859158135764	CMakeFiles/Assistant.dir/src/main.cpp.o	f470a636b366ab30
+467	532	1739567859622132196	Assistant	96e6baeb5cb2f98
+5	606	1739568130432051413	CMakeFiles/Assistant.dir/src/main.cpp.o	f470a636b366ab30
+606	790	1739568131032046805	Assistant	96e6baeb5cb2f98
